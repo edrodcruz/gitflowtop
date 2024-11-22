@@ -1,4 +1,2 @@
 # gitflowtop
-Exemplo de Git Flow  
-
-Teste
+Exemplo de Git Flow
